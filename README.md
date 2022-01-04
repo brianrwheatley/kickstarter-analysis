@@ -9,6 +9,8 @@ Data generally well formatted. Some columns broken into categories and subcatego
 
 Data contains half a dozen or so Kickstarters I'd consider outliers - either with bad data or over-the-top goals. Most outlier Kickstarters canceled or failed with $0 donations and/or 0 backers, making the whole project suspect.  Heavily skews raw data.
 
+Projects presented with multiple different currencies. Treated all projects as USD for general analysis, but should be properly converted for drilled down apples-to-apple comparisions.
+
 ---
 
 ## Analysis of Theater Kickstarters
@@ -60,10 +62,6 @@ Further analysis shows a possible area to increase the chance of success is to c
 |successful|$84.17|
 |failed|$61.63|
 |canceled|$39.81|
-
-
-### Limitations
-Projects presented with multiple different currencies. Treated all projects as USD for general analysis, but should be properly converted for drilled down apples-to-apple comparisions.
 
 
 [^1]: Chart excludes projects that were cancelled or live at the time of analysis.
