@@ -7,7 +7,7 @@ Extensive data available. For this analysis project, data provided substational 
 ## Limitations or Roadblocks
 Data generally well formatted. Some columns broken into categories and subcategories for easier sorting.  UNIX dates converted.
 
-Data contains half a dozen or so Kickstarters I'd consider outliers - either with bad data or over-the-top goals. Mot outliers Kickstarters canceled or failed with $0 donations and/or 0 backers, making the whole project suspect.  Heavily skews raw data.
+Data contains half a dozen or so Kickstarters I'd consider outliers - either with bad data or over-the-top goals. Most outlier Kickstarters canceled or failed with $0 donations and/or 0 backers, making the whole project suspect.  Heavily skews raw data.
 
 ---
 
